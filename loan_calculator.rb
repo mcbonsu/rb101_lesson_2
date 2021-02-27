@@ -72,5 +72,5 @@ loop do # main loop
   break unless answer.downcase().start_with?('y')
 end
 
-prompt("Thank you for using the Mortgage Calculator!")
+prompt("Thanks for using our Mortgage Calculator!")
 prompt("Good bye!")
