@@ -1,0 +1,23 @@
+en:
+  welcome: "Welcome to Mortgage and Loan Calculator!"
+  loan_amount: "Please enter the loan amount:"
+  positive_number: "Invalid number. Please enter a positive number."
+  interest: "Please enter interest rate (interest)?"
+  years: "Please enter loan duration (in years)?"
+  valid_number: "Invalid year. Please enter valid number."
+  result: "Your monthly payment is: "
+  do_again?: "Another calculation? (Please type Y or N)"
+  thank_you: "Thank you for using my Mortgage/Car Loan Calculator!"
+  goodbye: "Good bye"
+
+fr:
+  welcome: "Bonjour et bienvenue dans le calculateur de prêt hypothécaire / automobile!"
+  loan_amount: "Veuillez saisir le montant du prêt:"
+  positive_number: "Numéro invalide. Veuillez saisir un nombre positif."
+  interest: "Veuillez saisir le taux annuel en pourcentage (TAEG) en pourcentage:"
+  years: "Veuillez saisir la durée du prêt en mois:"
+  valid_number: "Veuillez saisir la durée du prêt en mois:"
+  result: "=> Votre paiement mensuel sera: "
+  do_again?: "Souhaitez-vous calculer un tarif mensuel différent? (Veuillez taper Y ou N)"
+  thank_you: "Veuillez mettre une réponse valide (Y/N)"
+  goodbye: "Merci d'utiliser"
