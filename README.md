@@ -1,0 +1,1 @@
+This is a simple ruby calculator to calculate your monthly repayment for a car or loan mortgage.
