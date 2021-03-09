@@ -27,7 +27,7 @@ end
 
 language = ''
 loop do
-  prompt "Please select language. En = English, Fr = French!"
+  prompt "Please select language. En = English, Ge = German!"
   language = gets.chomp.downcase
   case language
   when "en" then break
