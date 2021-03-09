@@ -31,7 +31,7 @@ loop do
   language = gets.chomp.downcase
   case language
   when "en" then break
-  when "fr" then break
+  when "ge" then break
   else prompt "Wrong entry. Please try again!"
   end
 end
